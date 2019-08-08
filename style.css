@@ -132,7 +132,7 @@ body {
 .btn-turquoise:hover,
 .btn-turquoise:focus {
   border-color: darkgrey;
-  background-color: darkgrey;
+  background-color: darkblue;
   /* border-color: #189582; */
   /* background-color: #189582; */
   color: white;
@@ -169,7 +169,7 @@ h3.heading {
   text-align: center;
 }
 .feature .fa-layers {
-  color: blue;
+  color: lightskyblue;
   /* color: #1EBBA3; */
   margin: 0 auto;
   width: 3.9rem;
@@ -228,7 +228,7 @@ img.example-image {
 }
 
 /*============= PRICING SECTION =============*/
-
+/* 
 .pricing-column {
   background-color: white;
   padding: 2rem;
@@ -277,12 +277,12 @@ img.example-image {
   top: 1.6rem;
   transform: rotate(45deg);
   box-shadow: 0 0 .2rem rgba(0, 0, 0, 0.25);
-}
+} */
 
 /*============= TEAM SECTION FIXED BG IMG LIGHT =============*/
 
 #fixed-2 {
-  background-image: url('img/fixed/office.png');
+  background-image: url('img/computers3.jpg');
   z-index: -1;
 }
 .light {
@@ -307,7 +307,8 @@ img.example-image {
   font-weight: 700;
 }
 .card h5 {
-  color: #1ebba3;
+  color: blue;
+  /* color: #1ebba3; */
 }
 .card p {
   border-top: .1rem solid rgba(0, 0, 0, .1);
@@ -316,7 +317,8 @@ img.example-image {
   margin: 1rem 0 1.5rem;
 }
 .card svg.svg-inline--fa {
-  color: #1ebba3!important;
+  color: blue;
+  /* color: #1ebba3!important; */
   font-size: 1.3rem;
   width: 2rem;
 }
@@ -325,20 +327,23 @@ img.example-image {
 }
 .owl-dot.active span,
 .owl-dot:hover span {
-  background: #1ebba3!important;
+  background: blue;
+  /* background: #1ebba3!important; */
 }
 
 /*============= SKILLS SECTION =============*/
 
 .skill h2 {
-  color: #1EBBA3;
+  color: blue;
+  /* color: #1EBBA3; */
   font-size: 2.5rem;
   font-weight: 700;
   margin: 1rem 0 .5rem;
 }
 
 .skill h3 {
-  color: #1EBBA3;
+  color: blue;
+  /* color: #1EBBA3; */
   font-size: 2.5rem;
   font-weight: 700;
   margin: 1rem 0 .5rem;
@@ -381,7 +386,7 @@ footer .row {
   padding: 1rem 2rem 3rem;
 }
 footer img {
-  height: 2rem;
+  height: 6rem;
   margin: 1.5rem 0;
 }
 footer a {
