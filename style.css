@@ -30,7 +30,8 @@ body {
   transition: background-color .5s ease 0s;
 }
 .navbar-brand img {
-  height: 2rem;
+  height: 6rem;
+  /* height: 2rem; */
 }
 .svg-inline--fa.fa-w-14 {
 	color: white;
@@ -45,7 +46,8 @@ body {
 }
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
-  color: #1ebba3;
+  color: lightskyblue;
+  /* color: #1ebba3; */
 }
 .navbar.solid {
   background: rgba(0, 0, 0, 0.7)!important;
@@ -55,7 +57,7 @@ body {
 /*============= LANDING PAGE =============*/
 
 .home-inner {
-  background-image: url('img/computers.png');
+  background-image: url('img/computers2.JPG');
 }
 .caption {
   width: 100%;
@@ -121,14 +123,18 @@ body {
   margin: 1rem;
 }
 .btn-turquoise {
-  border-color: #1EBBA3;
-  background-color: #1EBBA3;
+  border-color: darkblue;
+  background-color: darkblue;
+  /* border-color: #1EBBA3; */
+  /* background-color: #1EBBA3; */
   color: white;
 }
 .btn-turquoise:hover,
 .btn-turquoise:focus {
-  border-color: #189582;
-  background-color: #189582;
+  border-color: darkgrey;
+  background-color: darkgrey;
+  /* border-color: #189582; */
+  /* background-color: #189582; */
   color: white;
 }
 .jumbotron {
@@ -155,14 +161,16 @@ h3.heading {
 .heading-underline {
   width: 3rem;
   height: .2rem;
-  background-color: #1EBBA3;
+  background-color: darkblue;
+  /* background-color: #1EBBA3; */
   margin: 0 auto 2rem;
 }
 .feature {
   text-align: center;
 }
 .feature .fa-layers {
-  color: #1EBBA3;
+  color: blue;
+  /* color: #1EBBA3; */
   margin: 0 auto;
   width: 3.9rem;
   height: 6rem;
@@ -179,7 +187,7 @@ h3.heading {
 /*===== FIXED BACKGROUND IMG DARK =====*/
 
 #fixed {
-  background-image: url('img/fixed/apple.png');
+  background-image: url('img/computers3.jpg');
   z-index: -1;
 }
 .dark {
