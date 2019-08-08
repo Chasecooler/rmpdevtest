@@ -122,6 +122,30 @@ body {
   text-transform: uppercase;
   margin: 1rem;
 }
+
+/* OUT-TAKE */
+.btn-secondary {
+
+  border-width: medium;
+  border-radius: 0;
+  padding: .6rem 1.2rem;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin: 1rem;
+  border-color: darkblue;
+  background-color: darkblue;
+  color: white;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+
+  border-color: darkgrey;
+  background-color: darkgrey;
+  color: white;
+}
+
+/* OUT-TAKE */
 .btn-turquoise {
   border-color: darkblue;
   background-color: darkblue;
